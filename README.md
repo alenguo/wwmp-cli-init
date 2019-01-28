@@ -1,0 +1,1 @@
+# wwmp-cli-init
